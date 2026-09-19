@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Трекер подписок</string>
+
+    <string name="no_subscriptions">Подписок пока нет\n\nНажми «Добавить», чтобы записать первый сервис</string>
+    <string name="add">Добавить</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete">Удалить</string>
+
+    <string name="lbl_name">Название сервиса</string>
+    <string name="lbl_price">Цена</string>
+    <string name="lbl_period">Период списания</string>
+    <string name="lbl_day">День списания (1–28)</string>
+    <string name="lbl_month">Дата первого списания</string>
+    <string name="hint_name">Netflix, Spotify, YouTube Premium…</string>
+
+    <string name="period_monthly">Ежемесячно</string>
+    <string name="period_yearly">Раз в год</string>
+    <string name="period_weekly">Еженедельно</string>
+    <string name="period_quarterly">Раз в квартал</string>
+    <string name="period_halfyear">Раз в полгода</string>
+
+    <string name="monthly_total">в месяц</string>
+    <string name="yearly_total">в год</string>
+    <string name="per_month">/ мес</string>
+    <string name="per_year">/ год</string>
+
+    <string name="next_charge">Ближайшее списание</string>
+    <string name="in_days">через %1$d дн.</string>
+    <string name="today">сегодня</string>
+    <string name="tomorrow">завтра</string>
+
+    <string name="currency">₽</string>
+    <string name="total_caption">Итого</string>
+</resources>
